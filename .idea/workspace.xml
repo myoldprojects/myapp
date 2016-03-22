@@ -27,11 +27,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="128">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
-                <marker date="1458653990000" expanded="true" signature="608:761" placeholder="..." />
-                <marker date="1458653990000" expanded="true" signature="701:729" placeholder="..." />
+                <marker date="1458654080000" expanded="true" signature="608:761" placeholder="..." />
+                <marker date="1458654080000" expanded="true" signature="701:729" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -215,7 +215,7 @@
       <option name="presentableId" value="Default" />
       <updated>1458571199590</updated>
       <workItem from="1458571201957" duration="3933000" />
-      <workItem from="1458652948529" duration="523000" />
+      <workItem from="1458652948529" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1458573421081</created>
@@ -231,11 +231,18 @@
       <option name="project" value="LOCAL" />
       <updated>1458653906623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added another header">
+      <created>1458654008923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458654008923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4456000" />
+    <option name="totallyTimeSpent" value="4545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="800" height="534" extended-state="0" />
@@ -266,7 +273,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="added a header" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a header" />
+    <MESSAGE value="added another header" />
+    <option name="LAST_COMMIT_MESSAGE" value="added another header" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -275,11 +283,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="128">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
-            <marker date="1458653990000" expanded="true" signature="608:761" placeholder="..." />
-            <marker date="1458653990000" expanded="true" signature="701:729" placeholder="..." />
+            <marker date="1458654080000" expanded="true" signature="608:761" placeholder="..." />
+            <marker date="1458654080000" expanded="true" signature="701:729" placeholder="..." />
           </folding>
         </state>
       </provider>
